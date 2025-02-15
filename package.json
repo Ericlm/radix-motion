@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.0.6",
+    "motion-v": "^0.10.0-beta.1",
     "radix-vue": "^1.9.14",
     "tailwindcss": "^4.0.6",
     "vue": "^3.5.13"
